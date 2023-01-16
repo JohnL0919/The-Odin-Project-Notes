@@ -1,10 +1,20 @@
 p {
-  /* hex example: */
-  color: #1100ff;
-  /* rgb example: */
-  color: rgb(100, 0, 127);
-  /* hsl example: */
-  color: hsl(15, 82%, 56%);
+  color: #181D31;
+}
+body {
+  background-image: linear-gradient(45deg, #F9F6EE, rgb(233, 218, 193));
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #181D31;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+}
+
+h1 {
+  color: #181D31;
 }
 
 img {
